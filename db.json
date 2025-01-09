@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "f0e9ca04-8a1a-4767-b1d8-a14a2e45d56d",
+      "text": "test 123",
+      "isDone": true,
+      "createdAt": 1736395170908
+    },
+    {
+      "id": "6b73b34e-f0fb-4bba-b907-cd888b41b1b7",
+      "text": "deneme",
+      "isDone": true,
+      "createdAt": 1736395288446
+    }
+  ]
+}
