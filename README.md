@@ -20,3 +20,18 @@
 - Delete: Remove an item from the list.
 - Uses Axios to fetch data from the API and send updates.
 - State is managed using Redux to handle global state changes for the list.
+
+## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/3cf32404-ad06-4673-88e6-7a806f6e5fb6)
+
+![screen02](https://github.com/user-attachments/assets/b6886452-b5df-4beb-88a9-5ee01023c9b3)
+
+
+
+
+
+
+
+
+
